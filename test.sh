@@ -1,0 +1,2 @@
+uptime
+yum install git 
