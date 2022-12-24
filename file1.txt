@@ -1,10 +1,1 @@
-hi hello 
-leela`
-=======
-HI THIS IS LEELA FIRST PROGRAM 
-hello my git
-hi
-
-new changes 
-
-changed few files as paragraph
+i want to delete all the data in this file so i removed 
